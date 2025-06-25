@@ -88,7 +88,7 @@ export default function LoginForm() {
             />
           </CardContent>
           <CardFooter>
-            <Button type="submit" className="w-full">
+            <Button type="submit" className="w-full cursor-pointer">
               Entrar
             </Button>
           </CardFooter>
